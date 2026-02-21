@@ -1,0 +1,41 @@
+{
+  "users": {
+    "1537334813": {
+      "username": "enjoying_let_space",
+      "first_name": "^_^",
+      "last_name": "",
+      "registered_at": "2026-02-21T10:55:46.767668",
+      "is_admin": true
+    }
+  },
+  "clubs": {
+    "Футбол": {
+      "members": [
+        "1537334813"
+      ],
+      "max_seats": 15
+    },
+    "Рисование": {
+      "members": [
+        "1537334813"
+      ],
+      "max_seats": 10
+    },
+    "Шахматы": {
+      "members": [
+        "1537334813"
+      ],
+      "max_seats": 10
+    }
+  },
+  "attendance": {
+    "Футбол": {
+      "2026-02-21": {
+        "present": [],
+        "absent": [
+          "1537334813"
+        ]
+      }
+    }
+  }
+}
